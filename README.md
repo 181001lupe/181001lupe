@@ -2,43 +2,46 @@
   <img src="https://github.com/181001lupe/181001lupe/blob/main/perfil_saulo_fixed.gif?raw=true" width="500">
 </p>
  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🐍 Apaixonado por **Python** e **Ciência de Dados**  
-📊 Explorando o mundo dos **dados** para transformar informações em soluções!  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+🐍 **Desenvolvedor Python** apaixonado por **Ciência de Dados**  
+📊 Explorando dados para extrair insights poderosos  
+💡 Buscando sempre aprender e evoluir!
 
 ---
 
-## 🚀 Sobre Mim  
-💡 Sou um entusiasta da tecnologia, sempre buscando aprender e aprimorar minhas habilidades.  
-📌 Atualmente, estou focado em **Python para Dados**, aprendendo **Análise, Manipulação e Visualização de Dados**.  
-🔎 Além de Python, também tenho conhecimentos em **HTML, CSS e JavaScript**.  
+### 🚀 **Minhas Habilidades**
+
+🔥 **Linguagens & Tecnologias:**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+### 📊 **Minhas Estatísticas no GitHub**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Saulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauloduarte&show_icons=true&theme=radical)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauloduarte&layout=compact&theme=radical)
 
-## 📊 Minhas Estatísticas  
+### 🐍 **Cobrinha do GitHub**
 
-![Saulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauloduarte&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauloduarte&layout=compact&theme=dracula)  
+<p align="center">
+  <img src="https://github.com/sauloduarte/sauloduarte/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🌍 Como Me Encontrar  
+### 📱 **Entre em Contato Comigo!**
 
-📸 **Instagram:** [@sauloduarte_](https://www.instagram.com/sauloduarte_/)  
-💼 **LinkedIn:** Em breve...  
-📂 **Portfólio:** Em construção...  
+📷 **Instagram:** [@sauloduarte_](https://www.instagram.com/sauloduarte_/)
 
----
+💼 **LinkedIn:** [Em breve!](#)
 
-✍️ _"Transformando dados em conhecimento, uma linha de código por vez."_ 🚀  
+📧 **E-mail:** [sauloduarte@email.com](mailto:sauloduarte@email.com) *(substituir pelo seu e-mail real)*
 
----
+💻 **Portfólio:** [Em breve!](#)
+
+🚀 Sempre pronto para novos desafios e oportunidades! Vamos conectar? 😃
+
