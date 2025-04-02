@@ -1,4 +1,7 @@
-# 👋 Olá, eu sou Saulo Duarte!  
+<p align="center">
+  <img src="URL_DO_SEU_GIF" width="500">
+</p>
+ 
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🐍 Apaixonado por **Python** e **Ciência de Dados**  
