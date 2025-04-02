@@ -28,7 +28,7 @@
 ### 🐍 **Cobrinha do GitHub**
 
 <p align="center">
-  <img src="https://github.com/sauloduarte/sauloduarte/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/181001lupe/181001lupe/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
