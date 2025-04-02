@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://github.com/181001lupe/181001lupe/blob/main/perfil_saulo_fixed.gif?raw=true)" width="500">
+  <img src="https://github.com/181001lupe/181001lupe/blob/main/perfil_saulo_fixed.gif?raw=true" width="500">
 </p>
  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
