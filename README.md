@@ -14,13 +14,10 @@
 ## 💻 Tecnologias e Ferramentas que curto usar
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
@@ -40,14 +37,8 @@ Tô estudando, aprendendo e em breve começo a colocar projetos bem legais por a
 
 ---
 
-## 🐍 Contribuições em movimento
-![snake gif](https://github.com/181001lupe/181001lupe/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
 ## 🎧 Agora escutando no Spotify
-[![Spotify](https://novatorem-saulo.vercel.app/api/spotify)](https://open.spotify.com/user/SEU_USER_DO_SPOTIFY)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=saulo4949&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=9c4eb1)](https://github.com/kittinan/spotify-github-profile)
 
 > Obs: Você precisa configurar o projeto [novatorem](https://github.com/novatorem/novatorem) e hospedar no [Vercel](https://vercel.com/) com suas credenciais do Spotify.
 
