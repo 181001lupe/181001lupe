@@ -37,17 +37,13 @@ Tô estudando, aprendendo e em breve começo a colocar projetos bem legais por a
 
 ---
 
-## 🎧 Agora escutando no Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=saulo4949&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=9c4eb1)](https://github.com/kittinan/spotify-github-profile)
-
-> Obs: Você precisa configurar o projeto [novatorem](https://github.com/novatorem/novatorem) e hospedar no [Vercel](https://vercel.com/) com suas credenciais do Spotify.
+## 🎧 Música do momento
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=saulo4949&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9c4eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
 ## ⌨️ Status de codificação
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seuwakatimeuser)](https://wakatime.com)
-
-> Obs: Crie uma conta no [WakaTime](https://wakatime.com), instale o plugin no VS Code e copie seu `username` pra cá.
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SauloDuarte)](https://wakatime.com)
 
 ---
 
