@@ -1,47 +1,91 @@
+<!-- Banner animado -->
 <p align="center">
-  <img src="https://github.com/181001lupe/181001lupe/blob/main/perfil_saulo_fixed.gif?raw=true" width="500">
-</p>
- 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-🐍 **Desenvolvedor Python** apaixonado por **Ciência de Dados**  
-📊 Explorando dados para extrair insights poderosos  
-💡 Buscando sempre aprender e evoluir!
-
----
-
-### 🚀 **Minhas Habilidades**
-
-🔥 **Linguagens & Tecnologias:**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 📊 **Minhas Estatísticas no GitHub**
-
-![Saulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauloduarte&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauloduarte&layout=compact&theme=radical)
-
-### 🐍 **Cobrinha do GitHub**
-
-<p align="center">
-  <img src="https://github.com/181001lupe/181001lupe/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Olá,+mundo!+sou+Saulo+Duarte+👋;Estudante+de+programação+💻">
 </p>
 
+🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e por resolver problemas através dela.  
+🚀 Estou sempre em busca de evoluir como dev, explorando ferramentas novas e colocando a mão na massa sempre que possível.
+
+🐍 Atualmente, estou focado em **Python**, com interesse especial em **análise de dados**,  
+🌐 e também estudando **JavaScript** para criar aplicações web mais interativas.
+
 ---
 
-### 📱 **Entre em Contato Comigo!**
+## 💻 Tecnologias e Ferramentas que curto usar
 
-📷 **Instagram:** [@sauloduarte_](https://www.instagram.com/sauloduarte_/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-💼 **LinkedIn:** [Em breve!](#)
+---
 
-📧 **E-mail:** [sauloduarte@email.com](mailto:sauloduarte@email.com) *(substituir pelo seu e-mail real)*
+## 🧠 Alguns projetos que tenho trabalhado
 
-💻 **Portfólio:** [Em breve!](#)
+🕸️ **Nada por aqui ainda...**  
+Tô estudando, aprendendo e em breve começo a colocar projetos bem legais por aqui. Fica de olho! 😄
 
-🚀 Sempre pronto para novos desafios e oportunidades! Vamos conectar? 😃
+---
 
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=181001lupe&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=181001lupe&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribuições em movimento
+![snake gif](https://github.com/181001lupe/181001lupe/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎧 Agora escutando no Spotify
+[![Spotify](https://novatorem-saulo.vercel.app/api/spotify)](https://open.spotify.com/user/SEU_USER_DO_SPOTIFY)
+
+> Obs: Você precisa configurar o projeto [novatorem](https://github.com/novatorem/novatorem) e hospedar no [Vercel](https://vercel.com/) com suas credenciais do Spotify.
+
+---
+
+## ⌨️ Status de codificação
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seuwakatimeuser)](https://wakatime.com)
+
+> Obs: Crie uma conta no [WakaTime](https://wakatime.com), instale o plugin no VS Code e copie seu `username` pra cá.
+
+---
+
+## 📊 Visitantes no perfil
+![Visitas](https://komarev.com/ghpvc/?username=181001lupe&color=orange)
+
+---
+
+## 🌐 Me acompanha por aqui também:
+<p align="left">
+  <a href="https://www.instagram.com/sauloduarte_/">
+    <img src="https://img.shields.io/badge/@sauloduarte__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seulinkedin/">
+    <img src="https://img.shields.io/badge/Saulo%20Duarte-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📚 Atualmente estudando:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+---
+
+📌 *“Fazer o simples bem-feito é o primeiro passo para o extraordinário.”*
+
+---
+
+### 😄 Valeu por passar por aqui! Bora codar 🚀
