@@ -42,33 +42,41 @@ Tô estudando, aprendendo e em breve começo a colocar projetos bem legais por a
 
 ---
 
-## ⌨️ Status de codificação
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SauloDuarte)](https://wakatime.com)
-
----
-
-## 📊 Visitantes no perfil
-![Visitas](https://komarev.com/ghpvc/?username=181001lupe&color=orange)
-
----
-
-## 🌐 Me acompanha por aqui também:
-<p align="left">
-  <a href="https://www.instagram.com/sauloduarte_/">
-    <img src="https://img.shields.io/badge/@sauloduarte__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/seulinkedin/">
-    <img src="https://img.shields.io/badge/Saulo%20Duarte-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 📚 Atualmente estudando:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/sauloduarte_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40sauloduarte__-c13584?style=flat&logo=instagram&logoColor=white">
+  </a>
+  <br>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sauloduarte/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Saulo%20Duarte-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <br>
+
+  <!-- Gmail -->
+  <a href="mailto:sauloduarte45@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sauloduarte45%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+
+## 📊 Visitantes no perfil
+![Visitas](https://komarev.com/ghpvc/?username=181001lupe&color=orange)
 
 ---
 
