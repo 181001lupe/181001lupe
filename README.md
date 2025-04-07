@@ -43,6 +43,7 @@ Tô estudando, aprendendo e em breve começo a colocar projetos bem legais por a
 ## 🐍 Contribuições em movimento
 ![snake gif](https://github.com/181001lupe/181001lupe/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 ## 🎧 Agora escutando no Spotify
