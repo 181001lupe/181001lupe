@@ -23,8 +23,9 @@
 
 ## 🧠 Alguns projetos que tenho trabalhado
 
-🕸️ **Nada por aqui ainda...**  
-Tô estudando, aprendendo e em breve começo a colocar projetos bem legais por aqui. Fica de olho! 😄
+### 🔗 [Organizador de Arquivos](https://github.com/181001lupe/Organizador-arquivos)
+Uma ferramenta simples para organizar e mover arquivos automaticamente para subpastas de acordo com suas extensões.  
+![Organizador de Arquivos](https://github-readme-stats.vercel.app/api/pin/?username=181001lupe&repo=Organizador-arquivos)
 
 ---
 
@@ -32,7 +33,9 @@ Tô estudando, aprendendo e em breve começo a colocar projetos bem legais por a
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=181001lupe&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=181001lupe&layout=compact&theme=radical" />
+  <p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=181001lupe&layout=compact&theme=radical&langs_count=10" />
+</p>
 </p>
 
 ---
@@ -80,7 +83,7 @@ Tô estudando, aprendendo e em breve começo a colocar projetos bem legais por a
 
 ---
 
-📌 *“Fazer o simples bem-feito é o primeiro passo para o extraordinário.”*
+📌 *“O movimento é inerente a evolução.”*
 
 ---
 
