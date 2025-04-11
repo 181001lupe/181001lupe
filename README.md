@@ -29,7 +29,7 @@ Uma ferramenta simples para organizar e mover arquivos automaticamente para subp
 
 ### 🔗 [Controle de Despesas Pessoais](https://github.com/181001lupe/controle-despesas)
 Uma aplicação de terminal para registrar, editar, remover e gerar relatórios de despesas, criada como prática de Programação Orientada a Objetos e manipulação de arquivos com Python.  
-![Controle de Despesas](https://github-readme-stats.vercel.app/api/pin/?username=181001lupe&repo=controle-despesas)
+![Controle de Despesas](https://github-readme-stats.vercel.app/api/pin/?username=181001lupe&repo=controleFinancas)
 
 
 ---
