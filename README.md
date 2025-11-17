@@ -1,95 +1,44 @@
-<!-- Banner animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Olá,+mundo!+sou+Saulo+Duarte+👋;Estudante+de+programação+💻">
-</p>
+Desenvolvedor focado em APIs REST, integrações entre sistemas e arquitetura backend.
+Atualmente trabalhando com Node.js + TypeScript, Express, Axios e bancos SQL.
 
-🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e por resolver problemas através dela.  
-🚀 Estou sempre em busca de evoluir como dev, explorando ferramentas novas e colocando a mão na massa sempre que possível.
+Meu foco é escrever código limpo, resolver problemas reais e evoluir constantemente como dev.
 
-🐍 Atualmente, estou focado em **Python**, com interesse especial em **análise de dados**,  
-🌐 e também estudando **JavaScript** para criar aplicações web mais interativas.
+🚀 Tecnologias principais
 
----
+Node.js
 
-## 💻 Tecnologias e Ferramentas que curto usar
+TypeScript
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Express
 
+Axios
 
----
+Prisma
 
-## 🧠 Alguns projetos que tenho trabalhado
+PostgreSQL / SQLite
 
-### 🔗 [Organizador de Arquivos](https://github.com/181001lupe/Organizador-arquivos)
-Uma ferramenta simples para organizar e mover arquivos automaticamente para subpastas de acordo com suas extensões.  
-![Organizador de Arquivos](https://github-readme-stats.vercel.app/api/pin/?username=181001lupe&repo=Organizador-arquivos)
+Git & Docker
 
-### 🔗 [Controle de Despesas Pessoais](https://github.com/181001lupe/controle-despesas)
-Uma aplicação de terminal para registrar, editar, remover e gerar relatórios de despesas, criada como prática de Programação Orientada a Objetos e manipulação de arquivos com Python.  
-![Controle de Despesas](https://github-readme-stats.vercel.app/api/pin/?username=181001lupe&repo=controleFinancas)
+Postman
 
+📚 Estudando
 
----
+Arquitetura de APIs
 
-## 📈 Estatísticas do GitHub
+Integrações entre plataformas
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=181001lupe&show_icons=true&theme=radical" />
-  <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=181001lupe&layout=compact&theme=radical&langs_count=10" />
-</p>
-</p>
+Boas práticas em Node.js + TS
 
----
+Testes automatizados
 
-## 🎧 Música do momento
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=saulo4949&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9c4eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+📈 GitHub Stats
+<p align="left"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=181001lupe&show_icons=true&theme=radical" /> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=181001lupe&layout=compact&theme=radical" /> </p>
+🌐 Contato
 
----
+Instagram: @sauloduarte_
 
-## 📚 Atualmente estudando:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+LinkedIn: /in/sauloduarte
 
+Email: sauloduarte45@gmail.com
 
----
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/sauloduarte_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40sauloduarte__-c13584?style=flat&logo=instagram&logoColor=white">
-  </a>
-  <br>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sauloduarte/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Saulo%20Duarte-0A66C2?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <br>
-
-  <!-- Gmail -->
-  <a href="mailto:sauloduarte45@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sauloduarte45%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
-
-## 📊 Visitantes no perfil
-![Visitas](https://komarev.com/ghpvc/?username=181001lupe&color=orange)
-
----
-
-📌 *“O movimento é inerente a evolução.”*
-
----
-
-### 😄 Valeu por passar por aqui! Bora codar 🚀
+📌 “Disciplina acima de motivação.”
