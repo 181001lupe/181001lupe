@@ -1,4 +1,4 @@
-👋 Saulo Duarte
+
 Backend Developer • Node.js | TypeScript | APIs REST
 
 Sou desenvolvedor focado em backend moderno, criando APIs rápidas, integrações entre sistemas e soluções escaláveis.
